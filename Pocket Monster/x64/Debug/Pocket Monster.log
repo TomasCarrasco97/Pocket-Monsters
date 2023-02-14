@@ -1,0 +1,20 @@
+﻿  Pocket.cpp
+c:\users\tomas\source\repos\pocket monster\pocket monster\pocket.cpp(74): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+c:\users\tomas\source\repos\pocket monster\pocket monster\pocket.cpp(78): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+  Pocket Monster.vcxproj -> c:\users\tomas\source\repos\Pocket Monster\x64\Debug\Pocket Monster.exe
